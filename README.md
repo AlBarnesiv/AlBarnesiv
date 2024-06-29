@@ -2,7 +2,7 @@
 
 My journey into tech began as a middle schooler with a passion for creating "cool" things online. I taught myself HTML 4 & 5, CSS, & JavaScript to create my "grand" ideas at the time. After a bit I set my sights higher and moved on to game development, using engines such as RPG Maker XP, GameMaker, and FPS Maker, teaching myself Ruby, FPI, and GML along the way.
 
-With the passion for software still burning bright, I've recently decided to transition away from the Fitness Industry to Software Development. To support this shift, I enrolled in a flexible Computer Science Bachelor program at Western Governors University (WGU). Through my studies and self-teaching, I've become proficient in several programming languages and continue to expand my skills.
+With the passion for software still burning bright, I've transitioned away from the Fitness Industry to Software Development. To support this shift, I enrolled in a flexible Computer Science Bachelor program at Western Governors University (WGU). Through my studies and self-teaching, I've become proficient in several programming languages and continue to expand my skills.
 
 ## 💻 Languages & Tools
 ### Languages
