@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Al Barnes
 
-With 17 years of experience as a dedicated tech hobbyist, I have a solid foundation in various programming languages and development tools. I have self-taught HTML 4 & 5, CSS, and JavaScript, and have explored game development using RPG Maker, FPS Maker, GameMaker, and Unity. Through these platforms, I have gained proficiency in Ruby, FPI, GML, and C#.
+With 14 years of experience as a dedicated tech hobbyist, I have a solid foundation in various programming languages and development tools. I have self-taught HTML 4 & 5, CSS, and JavaScript, and have explored game development using RPG Maker, FPS Maker, GameMaker, and Unity. Through these platforms, I have gained proficiency in Ruby, FPI, GML, and C#.
 
 Recently, I decided to elevate my passion for technology by pursuing a Bachelor's degree in Computer Science at Western Governors University. This academic journey is designed to deepen my knowledge and facilitate a career transition from the Fitness Industry into the realm of software development.
 ## 💻 Languages & Tools
