@@ -22,10 +22,11 @@ Recently, I decided to elevate my passion for technology by pursuing a Bachelor'
 <img src="https://static.wixstatic.com/media/16a44a_48e50fb51f7c4e479dbb920658eda13f~mv2.png" alt="Wordpress" width="75" height="75">&nbsp;&nbsp; <!-- Wordpress -->
 <img src="https://static.wixstatic.com/shapes/16a44a_58cdd82e71534b1eb00a4a1609833ca1.svg" alt="Figma" width="125" height="75">&nbsp;&nbsp; <!-- Figma -->
 <img src="https://static.wixstatic.com/media/16a44a_be32901c5a1344b5a960729272771d2a~mv2.png" alt="Git" width="75" height="75">&nbsp;&nbsp; <!-- Git -->
+<img src="https://static.wixstatic.com/media/16a44a_c8be0c0741114422b72c17407d902a7f~mv2.png" alt="Git Hub" width="60" height="60">&nbsp;&nbsp; <!-- Git Hub -->
 
 ## 🎓 Currently Learning
-<img src="https://static.wixstatic.com/media/16a44a_c8be0c0741114422b72c17407d902a7f~mv2.png" alt="Git Hub" width="60" height="60">&nbsp;&nbsp; <!-- Git Hub -->
 <img src="https://static.wixstatic.com/media/16a44a_8321cae8f4ae411e8189fddd2f6466c4~mv2.png" alt="Kotlin" width="125" height="75">&nbsp;&nbsp; <!-- Kotlin -->
+<img src="https://static.wixstatic.com/media/b653b3_ac60474f5aa0468fa6b288773ce6ca0e~mv2.png" alt="Git Hub" width="60" height="60">&nbsp;&nbsp; <!-- C++ -->
 
 ## 🥳 Current Projects
 ### Sails of Riches
